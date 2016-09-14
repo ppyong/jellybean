@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudyAndroid</string>
+    <string name="login_name">로그인</string>
+    <string name="main_name">메인</string>
+</resources>
